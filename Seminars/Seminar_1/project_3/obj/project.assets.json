@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\GBPRogramming23022023\\Seminar\\proect_3\\proect_3.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\GBPRogramming23022023\\Seminars\\Seminar_1\\project_3\\proect_3.csproj",
       "projectName": "proect_3",
-      "projectPath": "C:\\Users\\user\\Desktop\\GBPRogramming23022023\\Seminar\\proect_3\\proect_3.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\GBPRogramming23022023\\Seminars\\Seminar_1\\project_3\\proect_3.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\GBPRogramming23022023\\Seminar\\proect_3\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\GBPRogramming23022023\\Seminars\\Seminar_1\\project_3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
