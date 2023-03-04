@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\GBPRogramming23022023\Seminars\Seminar_3\projekt_3\bin\Debug\net6.0\projekt_3.exe
+C:\Users\user\Desktop\GBPRogramming23022023\Seminars\Seminar_3\projekt_3\bin\Debug\net6.0\projekt_3.deps.json
+C:\Users\user\Desktop\GBPRogramming23022023\Seminars\Seminar_3\projekt_3\bin\Debug\net6.0\projekt_3.runtimeconfig.json
+C:\Users\user\Desktop\GBPRogramming23022023\Seminars\Seminar_3\projekt_3\bin\Debug\net6.0\projekt_3.dll
+C:\Users\user\Desktop\GBPRogramming23022023\Seminars\Seminar_3\projekt_3\bin\Debug\net6.0\projekt_3.pdb
+C:\Users\user\Desktop\GBPRogramming23022023\Seminars\Seminar_3\projekt_3\obj\Debug\net6.0\projekt_3.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GBPRogramming23022023\Seminars\Seminar_3\projekt_3\obj\Debug\net6.0\projekt_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GBPRogramming23022023\Seminars\Seminar_3\projekt_3\obj\Debug\net6.0\projekt_3.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GBPRogramming23022023\Seminars\Seminar_3\projekt_3\obj\Debug\net6.0\projekt_3.AssemblyInfo.cs
+C:\Users\user\Desktop\GBPRogramming23022023\Seminars\Seminar_3\projekt_3\obj\Debug\net6.0\projekt_3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GBPRogramming23022023\Seminars\Seminar_3\projekt_3\obj\Debug\net6.0\projekt_3.dll
+C:\Users\user\Desktop\GBPRogramming23022023\Seminars\Seminar_3\projekt_3\obj\Debug\net6.0\refint\projekt_3.dll
+C:\Users\user\Desktop\GBPRogramming23022023\Seminars\Seminar_3\projekt_3\obj\Debug\net6.0\projekt_3.pdb
+C:\Users\user\Desktop\GBPRogramming23022023\Seminars\Seminar_3\projekt_3\obj\Debug\net6.0\projekt_3.genruntimeconfig.cache
+C:\Users\user\Desktop\GBPRogramming23022023\Seminars\Seminar_3\projekt_3\obj\Debug\net6.0\ref\projekt_3.dll
